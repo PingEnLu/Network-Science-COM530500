@@ -1,4 +1,4 @@
-# Python 3 + iGraph + NetworkX Install Tutorial
+# Python 3 + iGraph + NetworkX Install Tutorial
 
 Network Science COM 530500
 
@@ -9,7 +9,7 @@ Ping-En Lu
 ### Debian/Ubuntu
 
 ```zsh
-$ sudo apt-get install python3
+sudo apt-get install python3
 ```
 
 ### macOS
