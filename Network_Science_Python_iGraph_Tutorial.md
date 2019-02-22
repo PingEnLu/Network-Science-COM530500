@@ -9,7 +9,7 @@ Ping-En Lu
 ### Debian/Ubuntu
 
 ```zsh
-sudo apt-get install python3
+$ sudo apt-get install python3
 ```
 
 ### macOS
