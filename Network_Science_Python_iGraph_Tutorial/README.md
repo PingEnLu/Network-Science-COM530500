@@ -131,6 +131,10 @@ sudo pip install cairocffi
 For Windows:
 Please download gtk2-runtime and gtk3-runtime from [GTK-for-Windows-Runtime-Environment-Installer](https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases) and install it.
 
+```powershell
+pip install cairocffi
+```
+
 ### Python-iGraph Hello, World!
 
 ```bash
