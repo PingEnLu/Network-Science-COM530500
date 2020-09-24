@@ -183,3 +183,7 @@ sudo -H pip3 install package_name
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Spyder 3](https://www.spyder-ide.org/)
 - [Sublime text 3](https://www.sublimetext.com/)
+
+## Acknowledgement
+
+This README.md was created by Ping-En Lu, edited by Yi-Jheng Lin.
