@@ -2,7 +2,7 @@
 
 Network Science COM 530500
 
-TA: Ping-En Lu
+TA: Yi-Jheng Lin and Chia-Han Yeh
 
 ## Introduction
 
@@ -106,7 +106,7 @@ Download one of the unofficial installers built by [Christoph Gohlke](https://ww
 ![Christoph_Gohlke](igraph_install.jpg "Christoph Gohlke")
 
 ```powershell
-pip3 install python_igraphâ€‘0.8.2â€‘cp37â€‘cp37mâ€‘win_amd64.whl
+pip3 install python_igraph??.8.2?‘cp37?‘cp37m?‘win_amd64.whl
 ```
 
 ### Plot the Graph by python-igraph
