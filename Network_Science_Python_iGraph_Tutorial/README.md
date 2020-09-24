@@ -106,7 +106,7 @@ Download one of the unofficial installers built by [Christoph Gohlke](https://ww
 ![Christoph_Gohlke](igraph_install.jpg "Christoph Gohlke")
 
 ```powershell
-pip3 install python_igraph??.8.2?‘cp37?‘cp37m?‘win_amd64.whl
+pip3 install python_igraph-0.8.2-cp37-cp37m-win_amd64.whl
 ```
 
 ### Plot the Graph by python-igraph
